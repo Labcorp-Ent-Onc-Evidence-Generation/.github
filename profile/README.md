@@ -1,4 +1,4 @@
-# This is a repository to house projects performed by the Labcorp Enterprise Oncology Evidence Generation team, mainly the Data Science branch of the team.
+# This is a repository to house analysis code and input data for projects performed by the Labcorp Enterprise Oncology Evidence Generation team, mainly the Data Science branch of the team.
 
 ## For more information regarding past and ongoing Oncology projects, see the Labcorp Oncology publication page: https://oncology.labcorp.com/cancer-care-team/posters-publications
 
